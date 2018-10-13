@@ -1,4 +1,4 @@
-num = int(input("Digite um inteiro: "))
+num = int(input("Digite um inteiro:  "))
 u = num%10
 d = (num%100)//10
 c = (num%1000)//100
